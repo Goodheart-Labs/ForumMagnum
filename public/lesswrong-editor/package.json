@@ -97,6 +97,5 @@
   "eslintIgnore": [
     "build/**",
     "packages/**"
-  ],
-  "dependencies": {}
+  ]
 }
